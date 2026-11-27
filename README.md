@@ -15,17 +15,6 @@
 - I ship themes that update themselves from GitHub Releases through GitHub Actions.
 - I also build desktop tools and Android apps in Kotlin.
 
-### Featured work
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Tata-Surgical**](https://github.com/zaheerabas/Tata-Surgical) | Custom WordPress theme for [tatasurgical.com](https://tatasurgical.com), a surgical instrument manufacturer. | PHP · WordPress · Elementor |
-| [**aurix-theme**](https://github.com/zaheerabas/aurix-theme) | WordPress/WooCommerce theme for [Aurix International](https://aurixinternational.com). | PHP · WooCommerce |
-| [**gami-surgical**](https://github.com/zaheerabas/gami-surgical) | WordPress theme with one-click updates from GitHub Releases and a built-in article system. | PHP · GitHub Actions |
-| [**RxAuditwise**](https://github.com/zaheerabas/RxAuditwise) | Desktop app that loads CSV files, validates the data, flags errors and exports clean reports. | HTML · JS |
-| [**frelli**](https://github.com/zaheerabas/frelli) | Personal finance tracker for income, spending, goals and limits. | Web |
-| [**LinkPoll**](https://github.com/zaheerabas/poll) | Social polling app for creating, sharing and voting on polls. | Kotlin · Android |
-
 ### Tech I work with
 
 <p>
