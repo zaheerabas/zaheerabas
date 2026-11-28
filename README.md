@@ -24,7 +24,7 @@ Building our products <a href="https://link-poll.com"><b>LinkPoll</b></a>, <a hr
 
 | Role | Company | Since |
 |---|---|---|
-| Full-stack Developer | [Ayrasol Services](https://ayrasol.com) (IT solutions) | Aug 2025 |
+| Full-stack Developer | Ayrasol Services (IT solutions) | Aug 2025 |
 | Web Developer & SEO Administrator | [Tata Surgical](https://tatasurgical.com) | Apr 2026 |
 | Web Developer & SEO Administrator (remote, contract) | [Aurix International](https://aurixinternational.com) | May 2026 |
 
