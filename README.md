@@ -1,12 +1,13 @@
 <h1 align="center">Zaheer Abbas</h1>
 <p align="center">
 Web &amp; app developer — custom WordPress/WooCommerce themes, Elementor builds, and Android apps.<br>
-Building our products <a href="https://link-poll.com"><b>LinkPoll</b></a>, <a href="https://github.com/zaheerabas/frelli"><b>Frelli</b></a>, <a href="https://github.com/zaheerabas/zee-purchase"><b>Zee Purchase</b></a> and <a href="https://github.com/zaheerabas/taxmetter"><b>taxmetter</b></a>.
+Building our products <a href="https://link-poll.com"><b>LinkPoll</b></a>, <a href="https://github.com/zaheerabas/frelli"><b>Frelli</b></a>, <a href="https://github.com/zaheerabas/zee-purchase"><b>Zee Purchase</b></a> and <a href="https://taxmetter.com"><b>taxmetter</b></a>.
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/iamzaheerabbas"><img src="https://img.shields.io/badge/LinkedIn-iamzaheerabbas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://link-poll.com"><img src="https://img.shields.io/badge/LinkPoll-link--poll.com-0B2545?style=flat-square" alt="LinkPoll"></a>
+<a href="https://taxmetter.com"><img src="https://img.shields.io/badge/taxmetter-taxmetter.com-1F7A4D?style=flat-square" alt="taxmetter"></a>
 </p>
 
 ---
@@ -22,7 +23,7 @@ Building our products <a href="https://link-poll.com"><b>LinkPoll</b></a>, <a hr
 - [**LinkPoll**](https://github.com/zaheerabas/LinkPoll) — social polling platform: create a poll, share it anywhere, and watch the results come in live. VS polls, blind polls, groups, leaderboards and shareable result cards. Android app (Kotlin, Jetpack Compose) and web platform (PHP, vanilla JS). Live at [link-poll.com](https://link-poll.com).
 - [**Frelli**](https://github.com/zaheerabas/frelli) — personal finance app: track where your money comes from, where it goes, and how to keep more of it, with goals and spending limits.
 - [**Zee Purchase**](https://github.com/zaheerabas/zee-purchase) — purchase book PWA for retail shops: bills, supplier ledger (khata) and reports. Works offline.
-- [**taxmetter**](https://github.com/zaheerabas/taxmetter) — partnership platform: free 1099 tax calculator for US freelancers and gig workers. Runs in the browser, no sign-up.
+- [**taxmetter**](https://github.com/zaheerabas/taxmetter) — partnership platform: free 1099 tax calculator for US freelancers and gig workers. Runs in the browser, no sign-up. Live at [taxmetter.com](https://taxmetter.com).
 
 ### Client work
 
