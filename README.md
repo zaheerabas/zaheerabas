@@ -117,7 +117,7 @@
     <td align="center">🦷</td>
     <td><a href="https://github.com/zaheerabas/gami-surgical"><b>Gami Surgical</b></a></td>
     <td>WordPress theme with one-click GitHub updates and an article system</td>
-    <td><a href="https://gamisurgical.com">gamisurgical.com</a></td>
+    <td><a href="https://gamisurgical.us">gamisurgical.us</a></td>
   </tr>
   <tr>
     <td align="center">💊</td>
