@@ -1,7 +1,7 @@
 <h1 align="center">Zaheer Abbas</h1>
 <p align="center">
 Web &amp; app developer — custom WordPress/WooCommerce themes, Elementor builds, and Android apps.<br>
-Building our startups <a href="https://link-poll.com"><b>LinkPoll</b></a> and <a href="https://github.com/zaheerabas/frelli"><b>Frelli</b></a>.
+Building our products <a href="https://link-poll.com"><b>LinkPoll</b></a>, <a href="https://github.com/zaheerabas/frelli"><b>Frelli</b></a> and <a href="https://github.com/zaheerabas/zee-purchase"><b>Zee Purchase</b></a>.
 </p>
 
 <p align="center">
@@ -17,10 +17,11 @@ Building our startups <a href="https://link-poll.com"><b>LinkPoll</b></a> and <a
 - I ship themes that update themselves from GitHub Releases through GitHub Actions.
 - I also build desktop tools and Android apps in Kotlin.
 
-### Our startups
+### Our startups & products
 
 - [**LinkPoll**](https://github.com/zaheerabas/LinkPoll) — social polling platform: create a poll, share it anywhere, and watch the results come in live. VS polls, blind polls, groups, leaderboards and shareable result cards. Android app (Kotlin, Jetpack Compose) and web platform (PHP, vanilla JS). Live at [link-poll.com](https://link-poll.com).
 - [**Frelli**](https://github.com/zaheerabas/frelli) — personal finance app: track where your money comes from, where it goes, and how to keep more of it, with goals and spending limits.
+- [**Zee Purchase**](https://github.com/zaheerabas/zee-purchase) — purchase book PWA for retail shops: bills, supplier ledger (khata) and reports. Works offline.
 
 ### Client work
 
@@ -35,7 +36,6 @@ Sites, themes and apps I've built as the developer:
 | [ZH Industries](https://github.com/zaheerabas/zh-industries) | WooCommerce catalog theme with Request a Quote |
 | [Mukka Sports](https://github.com/zaheerabas/Mukka-Sports) | WordPress theme |
 | [RxAuditwise](https://github.com/zaheerabas/RxAuditwise) | Pharmacy purchase reconciliation tool (web + Electron desktop) |
-| [zee-purchase](https://github.com/zaheerabas/zee-purchase) | Offline purchase book PWA for a retail shop |
 | [taxmetter (1099)](https://github.com/zaheerabas/1099) | Free 1099 tax calculator for US freelancers |
 
 ### Tech I work with
